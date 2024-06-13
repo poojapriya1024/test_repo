@@ -1,0 +1,4 @@
+Milestone 2 taks
+1. Define objectives and metrics for image analysis.
+2. Gather and preprocess image data for training.
+3. Train a machine learning model for image analysis.
