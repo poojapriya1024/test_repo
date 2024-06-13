@@ -3,3 +3,5 @@ Milestone 1: Fetch User Data
 1. Create a user data model with necessary attributes.
 2. Develop an API endpoint to retrieve user data.
 3. Connect to the data source and handle data extraction.
+4. Implement validation and error handling for user data.
+5. Write tests and documentation for the data retrieval system.
